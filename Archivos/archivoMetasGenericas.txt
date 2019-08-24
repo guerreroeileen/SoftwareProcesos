@@ -1,0 +1,40 @@
+//CMMI Dev
+materiales genericos
+codigo:GG1
+descripcion:Lograr las metas específicas
+nivel:Las metas específicas del área de proceso están soportadas por el proceso mediante la transformación de los productos de trabajo de entrada identificables en productos de trabajo de salida identificables.
+codigoPG:GP 1.1
+descripcionPG:Realizar las prácticas específicas
+//
+codigo:GG2
+descripcion:El proceso está institucionalizado como un proceso gestionado.
+nivel:Proceso definido
+codigoPG:GP 2.1
+descripcionPG:Establecer una política de la organización
+codigoPG:GP 2.2
+descripcionPG:Planificar el proceso
+codigoPG:GP 2.3
+descripcionPG:Proporcionar recursos
+codigoPG:GP 2.4
+descripcionPG:Asignar responsabilidad
+codigoPG:GP 2.5
+descripcionPG:Formar al personal
+codigoPG:GP 2.6
+descripcionPG:Controlar los productos de trabajo
+codigoPG:GP 2.7
+descripcionPG:Identificar e involucrar a las partes interesadas relevantes
+codigoPG:GP 2.8
+descripcionPG:Monitorizar y controlar el proceso
+codigoPG:GP 2.9
+descripcionPG:Evaluar objetivamente la adherencia
+codigoPG:GP 2.10
+descripcionPG:Revisar el estado con el nivel directivo
+//
+codigo:GG3
+descripcion:Institucionalizar un proceso definido
+nivel:El proceso está institucionalizado como un proceso definido.
+codigoPG:GP 3.1 
+descripcionPG:Establecer un proceso definido
+codigoPG:GP 3.2 
+descripcionPG:Recopilar las experiencias relacionadas con los procesos.
+//

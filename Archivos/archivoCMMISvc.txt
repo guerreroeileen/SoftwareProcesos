@@ -1,0 +1,73 @@
+CMMI SVC
+Nombre:Gestión de Riesgos
+Cod:RSKM
+Proposito:El propósito de la Gestión de Riesgos (RSKM) es identificar problemas potenciales antes de que ocurran, para que las actividades de tratamiento de riesgos puedan planificarse e invocarse según sea necesario a lo largo de la vida del producto o del proyecto para mitigar los impactos adversos sobre la consecución de objetivos
+Nombre:Gestión de Requisitos
+Cod:REQM
+Proposito:El propósito de la Gestión de Requisitos (REQM) es gestionar los requisitos de los productos y los componentes de producto del proyecto, y asegurar la alineación entre esos requisitos, y los planes y los productos de trabajo del proyecto.
+Nombre:Definición de Procesos de la Organización
+Cod:OPD
+Proposito:El propósito de la Definición de Procesos de la Organización (OPD) es establecer y mantener un conjunto utilizable de activos de proceso de la organización, estándares del entorno de trabajo, y reglas y guías para los equipos.
+Nombre:Enfoque en Procesos de la Organización
+Cod:OPF
+Proposito:El propósito de Enfoque en Procesos de la Organización (OPF) es planificar, implementar y desplegar las mejoras de proceso de la organización, basadas en una comprensión completa de las fortalezas y debilidades actuales de los procesos y de los activos de proceso de la organización.
+Nombre:Formación en la Organización
+Cod:OT
+Proposito:El propósito de la Formación en la Organización (OT) es desarrollar las habilidades y los conocimientos de las personas para que puedan desempeñar sus roles eficaz y eficientemente.
+Nombre:Rendimiento de Procesos de la Organización
+Cod:OPP
+Proposito:El propósito del Rendimiento de Procesos de la Organización (OPP) es establecer y mantener una comprensión cuantitativa del rendimiento de los procesos seleccionados del conjunto de procesos estándar de la organización para dar soporte a la consecución de los objetivos de calidad y de rendimiento de proceso, y para proporcionar datos, líneas base y modelos de rendimiento de proceso con los que gestionar cuantitativamente los proyectos de la organización.
+Nombre:Medición y Análisis
+Cod:MA
+Proposito:El propósito de Medición y Análisis (MA) es desarrollar y mantener la capacidad de medición utilizada para dar soporte a las necesidades de información de la gerencia.
+Nombre:Aseguramiento de la Calidad del Proceso y del Producto
+Cod:PPQA
+Proposito:El propósito del Aseguramiento de la Calidad del Proceso y del Producto (PPQA) es proporcionar al personal y a la gerencia una visión objetiva de los procesos y de los productos de trabajo asociados.
+Nombre:Gestión de Configuración
+Cod:CM
+Proposito:El propósito de la Gestión de Configuración (CM) es establecer y mantener la integridad de los productos de trabajo utilizando la identificación de la configuración, el control de la configuración, el informe del estado de la configuración y las auditorías de la configuración.
+Nombre:Análisis de decisiones y resolución
+Cod:DAR
+Proposito:El propósito del Análisis de Decisiones y Resolución (DAR) es analizar las posibles decisiones utilizando un proceso de evaluación formal que evalúa las alternativas identificadas, frente a unos criterios establecidos.
+Nombre:Análisis Causal y Resolución
+Cod:CAR
+Proposito:El propósito de Análisis Causal y Resolución (CAR) es identificar las causas de los resultados seleccionados y actuar para mejorar el rendimiento de proceso.
+Nombre:Gestión del Rendimiento de la Organización
+Cod:OPM
+Proposito:El propósito de la Gestión del Rendimiento de la Organización (OPM) es gestionar proactivamente el rendimiento de la organización para satisfacer sus objetivos de negocio.
+Nombre:Gestión Integrada del Proyecto
+Cod:IPM
+Proposito:El propósito de la Gestión Integrada del Proyecto (IPM) es establecer y gestionar el proyecto y la involucración de las partes interesadas relevantes de acuerdo a un proceso integrado y definido, que se adapta a partir del conjunto de procesos estándar de la organización.
+Nombre:Monitorización y Control del Proyecto
+Cod:PMC
+Proposito:El propósito de la Monitorización y Control del Proyecto (PMC) es proporcionar una comprensión del progreso del proyecto para que se puedan tomar las acciones correctivas apropiadas, cuando el rendimiento del proyecto se desvíe significativamente del plan.
+Nombre:Planificación del proyecto
+Cod:PP
+Proposito:El propósito de la Planificación del Proyecto (PP) es establecer y mantener planes que definan las actividades del proyecto.
+Nombre:Gestión Cuantitativa del Proyecto
+Cod:QPM
+Proposito:El propósito de la Gestión Cuantitativa del Proyecto (QPM) es gestionar cuantitativamente el proyecto para alcanzar los objetivos establecidos de calidad y de rendimiento de proceso en el proyecto.
+Nombre:Gestión de Acuerdos con Proveedores
+Cod:SAM
+Proposito:El propósito de la Gestión de Acuerdos con Proveedores (SAM) es gestionar la adquisición de productos y servicios de proveedores.
+Nombre:Gestión de la capacidad y disponibilidad
+Cod:CAM
+Proposito:El propósito de la Gestión de la capacidad y disponibilidad (CAM) es para garantizar la eficacia del sistema de servicio y asegurar que los recursos son prestado y utilizado de manera efectiva para apoyar los requisitos de servicio.
+Nombre:Resolución de Incidencias y Prevención
+Cod:IRP
+Proposito:El propósito de la Resolución de Incidencias y Prevención (IRP) es para asegurar la resolución oportuna y eficaz de las incidencias del servicio y la prevención de servicio incidentes según corresponda.
+Nombre:Continuidad del Servicio
+Cod:SCON
+Proposito:El propósito de la Continuidad del Servicio (SCON) es establecer y mantener los planes para garantizar la continuidad de los servicios durante y después de cualquier significativa interrupción de las operaciones normales.
+Nombre:El servicio de entrega
+Cod:SD
+Proposito:El propósito de Entrega de Servicios (SD) es entregar servicios de acuerdo con acuerdos de servicio.
+Nombre:Desarrollo del Sistema de Servicio
+Cod:SSD
+Proposito:El objetivo de Desarrollo del Sistema de Servicio (SSD) es analizar, diseñar, desarrollar, integrar, verificar y validar los sistemas de servicios, incluidos los componentes del sistema de servicios, para satisfacer los acuerdos de servicios existentes o previstos.
+Nombre:Sistema de trasición del servicio
+Cod:SST
+Proposito:El Propósito del Sistema de trasición de servicio (SST) es deplegar un nuevo o cambio significativo de los componentes del sistema de servicio mientras que el manejo de su efecto se pone en marcha en la entrega del servicio.
+Nombre:Servicio de Gestión Estratégica
+Cod:STSM
+Proposito:El propósito de Gestión de Servicios Estratégicos (STSM) es establecer y mantener los servicios estándar de común acuerdo con las necesidades y los planes estratégicos.
